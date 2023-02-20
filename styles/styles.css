@@ -78,7 +78,7 @@ body{
   padding: 2rem;
   border: 2px solid #1c2042;
 }
-@media screen and (max-width:425px){
+@media screen and (max-width:426px){
   .btn{
     width: 100%;
     display: flex;
